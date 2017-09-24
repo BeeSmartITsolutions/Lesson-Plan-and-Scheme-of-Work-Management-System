@@ -1,0 +1,88 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+body,html { font:100% normal Arial, Helvetica, sans-serif; background-color:#FFFBF; color:#2A3F55; font-size:25px; size:20PX; font-size:24px;
+height:100%;
+width:100%;
+margin-top:0%;
+}
+textarea{
+	margin:0;
+	padding:0px;
+	width:80%;
+	height:45%;
+	background: ;
+
+
+}
+select{ margin:0;padding:0px; color:#003366;
+width:45%;
+
+
+}
+
+h3
+{
+color:#800080;
+font-weight:bold;
+text-align:center;
+
+
+}
+h4
+{
+font-weight:bold;
+text-align:right;
+font-size:20px;
+}
+
+table
+{
+
+}
+
+tr:hover
+{
+font:bold, Arial, Helvetica, sans-serif;
+text-shadow:#0000FF;
+padding:1;
+}
+td
+{
+padding:10px;
+text-align:left;
+}
+fieldset label {
+	float: left;
+	width: 25em;
+	margin-right: 1em;
+	text-align:left;
+	font-weight:bolder;
+	display:block;
+	color:#FFFFFF;
+	size:60%
+}
+input[type="text"]
+ {
+width:70%;
+height:100%;
+color:#2A1FAA;
+
+
+}
+
+input[type="radio"]
+ {
+width:15%;
+height:100%;
+background-color: #2A0000;
+font-size:16px;
+}
+
+hr
+{
+size:60%;
+background-color:#800080;
+}

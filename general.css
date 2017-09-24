@@ -1,0 +1,29 @@
+	body, html
+	{
+		height:100%;
+		margin: 0px auto;
+		overflow:hidden;
+	}
+	body
+	{
+		margin: 0px;
+		text-align: left;
+		font-family: Tahoma, Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		background-color: #FFFF00;
+		min-width:980px;
+	}
+.displaytable
+{
+background:#FFFFFF;
+width:75%;
+height:100%;
+padding:1;
+overflow:auto;
+border:1px;
+}
+.topimage
+{height:100%;
+widows:100%;
+}
+
